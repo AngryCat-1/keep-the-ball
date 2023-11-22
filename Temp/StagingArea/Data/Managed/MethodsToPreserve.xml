@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ToSceneFunction">
+			<method name="GameToMenu"/>
+			<method name="GameToMenu"/>
+			<method name="GameToMenu"/>
+			<method name="MenuToGame1"/>
+			<method name="MenuToGame2"/>
+			<method name="MenuToGame3"/>
+		</type>
+	</assembly>
+</linker>
